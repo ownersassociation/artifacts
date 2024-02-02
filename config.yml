@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Design Artifacts
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://sprightly-torte-7211c8.netlify.app/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -146,7 +146,7 @@ params:
     - name: North Coast
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
+    - name: Design deliverables
     - name: Uncategorized
       untitled: true
 
